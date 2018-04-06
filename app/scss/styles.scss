@@ -1,6 +1,14 @@
 // styles.scss
 
 body{
-  background-color: blue;
-  color:red;
+  background-color: #eee;
+  text-align: center;
+
+  .logo{
+    width: 80%;
+    height: auto;
+    margin-top: 40px;
+  }
+
+
 }
