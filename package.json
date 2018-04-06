@@ -1,0 +1,23 @@
+{
+  "name": "bonnieWork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "latest",
+    "gulp-coffee": "latest",
+    "gulp-concat": "latest",
+    "gulp-connect": "latest",
+    "gulp-sass": "^4.0.0",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
